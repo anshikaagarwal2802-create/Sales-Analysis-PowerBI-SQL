@@ -19,38 +19,60 @@ This project is an end-to-end Sales Analysis solution built using **SQL Server**
    - Total Profit
    - Total Orders
    - Overall business health KPIs
+    -[DASHBOARD1](screenshots\ dashboard1_buinessoverview.png) 
 
 2. **Monthly Revenue Analysis**
    - Month-wise revenue trend
    - Identification of growth and decline periods
+   - [DASHBOARD2](screenshots\ dashboard2_monthlyrevenueanalysis.png) 
+
 
 3. **Top Selling Products**
    - Top products by quantity sold
    - Revenue contribution by top products
+   - [DASHBOARD3](screenshots\ dashboard3_topsellingproducts.png)
+   - [DASHBOARD4](screenshots\ dashboard4_topsellingproduct.png) 
+
+
 
 4. **Low Performing Products**
    - Least selling products by revenue
    - Identification of weak product performance
+   - [DASHBOARD5](screenshots\ dashboard5_lowperformingproducts.png)
+   - [DASHBOARD6](screenshots\ dashboard6_lowperformingproducts.png) 
+
+
 
 5. **High Revenue but Low Profit Products**
    - Products generating high sales but low profit
    - Cost vs selling price analysis
+   - [DASHBOARD7](screenshots\ dashboard7_highrevenue.png) 
+
 
 6. **Peak Sales Days Analysis**
    - Identification of days with maximum sales
    - Sales trend by date
+   - [DASHBOARD8](screenshots\ dashboard8_peaksalesday.png) 
+
 
 7. **Customer Analysis**
    - Repeat customers vs one-time customers
    - Customer purchase behavior insights
+   - [DASHBOARD9](screenshots\ dashboard9_customeranalysis.png) 
+
 
 8. **Sales Drop Detection**
    - Month-over-month sales comparison
    - Detection of sales decline periods
+   - [DASHBOARD10](screenshots\ dashboard10_salesdropdetection.png) 
+
+     
 
 9. **Category-wise Performance**
    - Revenue and quantity analysis by product category
    - Best and worst performing categories
+   - [DASHBOARD11](screenshots\ dashboard11_categorywiseanalysis.png) 
+
 
 
 
